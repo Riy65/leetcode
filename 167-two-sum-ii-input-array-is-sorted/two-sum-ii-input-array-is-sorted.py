@@ -10,3 +10,4 @@ class Solution(object):
                 b= b-1
             else:
                 a= a+1
+        
